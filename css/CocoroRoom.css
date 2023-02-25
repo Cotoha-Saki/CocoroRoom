@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background: #a0eeff;
+}
+@font-face {
+  font-family: "ぼくたち2";
+  src: url("font/Boku2-Bold.otf");
+}
+
+.CocoroRoom {
+  color: aliceblue;
+  font-family: "ぼくたち2";
+  font-size: 100px;
+}
